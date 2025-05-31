@@ -15,7 +15,7 @@ By signing up with referral code **124UTp** through the official link below, you
 
 ## 🖼️ Sign-Up Interface
 
-![MEXC Sign-Up Screenshot](assets/signup.PNG)
+!(assets/signup.PNG)
 
 ---
 
@@ -63,7 +63,7 @@ MEXC is known for its low fees, advanced trading tools, and wide range of digita
 
 ## 🧾 New User Spot Trading Perks
 
-![Spot Trading Bonuses](bonuses.PNG)
+!(bonuses.PNG)
 
 - **Trade ≥ 100 USDT → Get 10 USDT Bonus**
 - **Trade ≥ 500 USDT → Get 15 USDT Bonus**
